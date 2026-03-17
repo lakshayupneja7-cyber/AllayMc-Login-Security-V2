@@ -1,0 +1,10 @@
+name: AllayMcLoginSecurity
+main: com.allaymc.loginsecurity.Main
+version: 2.0
+api-version: 1.21
+
+commands:
+  register:
+    description: Register account
+  login:
+    description: Login account
